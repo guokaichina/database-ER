@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-20T12:56:14.187Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="S_JGDBACWC7pbZ4N7cqe" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-20T12:57:00.892Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="Aiaiihzuj6OR9u1ai47R" version="20.5.3" type="github">
   <diagram id="BOre7gkhwZPCpXYbug6-" name="第 1 页">
     <mxGraphModel dx="2012" dy="2428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -293,10 +293,10 @@
         <mxCell id="WfKO5eO7l7fBKgTfZoRR-74" value="手机号" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="-336" y="-376" width="98" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="WfKO5eO7l7fBKgTfZoRR-80" value="顾客用户名" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="WfKO5eO7l7fBKgTfZoRR-80" value="顾客用户名" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="916.0000000000002" y="-873" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="WfKO5eO7l7fBKgTfZoRR-84" value="商家用户名" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" parent="1" vertex="1">
+        <mxCell id="WfKO5eO7l7fBKgTfZoRR-84" value="商家用户名" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="942.0000000000002" y="-772" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="WfKO5eO7l7fBKgTfZoRR-87" value="商品信息" style="ellipse;whiteSpace=wrap;html=1;fontSize=20;fillColor=#FFFFFF;" parent="1" vertex="1">

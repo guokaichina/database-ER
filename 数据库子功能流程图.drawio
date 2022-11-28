@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T14:04:07.796Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="qoWWqDD51QRo2LJFLRRv" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T14:14:15.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g-zOeaiAI_GgUkQEOAXg" version="20.6.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
-    <mxGraphModel dx="2017" dy="2020" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
+    <mxGraphModel dx="932" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -260,6 +260,74 @@
             <mxPoint x="836.5" y="438" as="targetPoint" />
             <mxPoint x="898.9749999999999" y="401" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-108" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontSize=12;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-119" target="2PEdcS31-i6fL5ac7267-109">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1455" y="75" as="targetPoint" />
+            <mxPoint x="1455.5" y="35" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-109" value="用户在检索框中输入商品信息" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1395" y="114" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-111" value="检查数据库中&lt;br&gt;有无对应商品" style="rhombus;whiteSpace=wrap;html=1;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="186" width="110" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-112" value="否" style="html=1;align=left;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontSize=12;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-111" target="2PEdcS31-i6fL5ac7267-116">
+          <mxGeometry x="-0.8667" y="-11" relative="1" as="geometry">
+            <mxPoint x="1625" y="287" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-113" value="是" style="edgeStyle=orthogonalEdgeStyle;html=1;align=left;verticalAlign=top;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fontStyle=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-111" target="2PEdcS31-i6fL5ac7267-122">
+          <mxGeometry x="-0.5507" y="-14" relative="1" as="geometry">
+            <mxPoint x="1356" y="274" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-115" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.51;exitY=0.819;exitDx=0;exitDy=0;fontStyle=0;fontSize=12;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-124" target="2PEdcS31-i6fL5ac7267-118">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1452.5" y="452" as="targetPoint" />
+            <mxPoint x="1452.5" y="411" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-116" value="提示没有对应商品" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1515" y="260" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-117" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;fontSize=12;entryX=0.763;entryY=0.384;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1478.4069999999997" y="380.0719999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1476" y="340" />
+              <mxPoint x="1475" y="340" />
+              <mxPoint x="1489" y="340" />
+            </Array>
+            <mxPoint x="1575" y="299" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-118" value="" style="ellipse;html=1;shape=endState;fillColor=#333333;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1441" y="418" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-119" value="" style="ellipse;html=1;shape=startState;fillColor=#333333;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="48" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-121" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontSize=12;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-109" target="2PEdcS31-i6fL5ac7267-111">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1325.5" y="206" as="targetPoint" />
+            <mxPoint x="1455" y="213" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-122" value="显示对应商品列表" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="262" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-123" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;fontSize=12;entryX=0.255;entryY=0.199;entryDx=0;entryDy=0;entryPerimeter=0;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-122" target="2PEdcS31-i6fL5ac7267-124">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1425" y="369" as="targetPoint" />
+            <mxPoint x="1645" y="317" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-124" value="" style="line;strokeWidth=3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1410.5" y="378" width="89" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

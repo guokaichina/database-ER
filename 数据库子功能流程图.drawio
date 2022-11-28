@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-28T14:14:15.738Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="g-zOeaiAI_GgUkQEOAXg" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-28T14:15:28.024Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="4zYuqzFMxBakuxj31gtF" version="20.6.0" type="github">
   <diagram name="Page-1" id="e7e014a7-5840-1c2e-5031-d8a46d1fe8dd">
     <mxGraphModel dx="932" dy="945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2336" pageHeight="1654" background="none" math="0" shadow="0">
       <root>
@@ -328,6 +328,33 @@
         </mxCell>
         <mxCell id="2PEdcS31-i6fL5ac7267-124" value="" style="line;strokeWidth=3;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="1410.5" y="378" width="89" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-125" value="" style="ellipse;html=1;shape=startState;fillColor=#333333;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1946" y="45" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-126" value="" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;targetPerimeterSpacing=8;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontStyle=0;fontSize=12;startArrow=none;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fillColor=#eeeeee;strokeColor=#36393d;" edge="1" parent="1" target="2PEdcS31-i6fL5ac7267-127" source="2PEdcS31-i6fL5ac7267-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1961" y="111" as="targetPoint" />
+            <mxPoint x="1961" y="114" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-127" value="商家登录" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1901" y="114" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-128" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;fontSize=12;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-127" target="2PEdcS31-i6fL5ac7267-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1961" y="198" as="targetPoint" />
+            <mxPoint x="1961" y="249" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-129" value="进入商家个人主页" style="rounded=1;whiteSpace=wrap;html=1;arcSize=40;fontStyle=0;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="1901" y="195" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2PEdcS31-i6fL5ac7267-130" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;rounded=0;sourcePerimeterSpacing=8;targetPerimeterSpacing=8;curved=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontStyle=0;fontSize=12;" edge="1" parent="1" source="2PEdcS31-i6fL5ac7267-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1961" y="292" as="targetPoint" />
+            <mxPoint x="1961" y="359" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
